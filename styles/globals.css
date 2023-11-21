@@ -1,0 +1,10 @@
+a {
+  text-decoration: none;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .show > .nav-link {
+  color: #0d6efd;
+  border-bottom: 1px solid #0d6efd;
+  display: inline-block;
+}
